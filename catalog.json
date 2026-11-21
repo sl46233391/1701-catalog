@@ -1,1140 +1,452 @@
 {
   "tracks": [
     {
-      "path": "audio/108个关键词/倒影.mp3",
-      "size": 6876999
-    },
-    {
-      "path": "audio/108个关键词/墙上的向日葵.mp3",
-      "size": 21403179
-    },
-    {
-      "path": "audio/108个关键词/她+我们不能失去信仰+1990年的春天.mp3",
-      "size": 38565694
-    },
-    {
-      "path": "audio/108个关键词/尽头.mp3",
-      "size": 11783840
-    },
-    {
-      "path": "audio/108个关键词/山阴路的夏天.mp3",
-      "size": 12866362
-    },
-    {
-      "path": "audio/108个关键词/忽然.mp3",
-      "size": 8001310
-    },
-    {
-      "path": "audio/108个关键词/来了.mp3",
-      "size": 21398991
-    },
-    {
-      "path": "audio/108个关键词/董卓瑶.mp3",
-      "size": 8168495
-    },
-    {
-      "path": "audio/108个关键词/阿兰.mp3",
-      "size": 10745212
-    },
-    {
-      "path": "audio/108个关键词/青春.flac",
-      "size": 19261126
-    },
-    {
       "path": "audio/1701/不多.mp3",
-      "size": 9541454
+      "size": 9541454,
+      "sha": "d9f559270c8ed04bb385a846051431bdc7842ce4"
     },
     {
       "path": "audio/1701/大象.mp3",
-      "size": 13143218
+      "size": 13143218,
+      "sha": "b375cdc8ef31b46ca51b2135098dcc72ee857b36"
     },
     {
       "path": "audio/1701/好威武支持有希望.mp3",
-      "size": 14951400
+      "size": 14951400,
+      "sha": "67b00e6dd9529204122525bf4c4d9147d6ed37b5"
     },
     {
       "path": "audio/1701/定西.mp3",
-      "size": 11914418
+      "size": 11914418,
+      "sha": "b9bcaaf21abb0d7632879244d7ebf45194cd4f36"
     },
     {
       "path": "audio/1701/方式.mp3",
-      "size": 9913438
+      "size": 9913438,
+      "sha": "de9a956c92f40be92c1132798a9fb07f11db2ade"
     },
     {
       "path": "audio/1701/热河.mp3",
-      "size": 16340605
+      "size": 16340605,
+      "sha": "91dddd274cafa2e637a87f176793834eea960551"
     },
     {
       "path": "audio/1701/看见.mp3",
-      "size": 10219593
+      "size": 10219593,
+      "sha": "addc1b5c6aa71bd51f6d698934f47f818f64a060"
     },
     {
       "path": "audio/1701/鼠说.mp3",
-      "size": 12767054
+      "size": 12767054,
+      "sha": "a34a906a9ae577657ca8a6fa37363f4c5131efeb"
     },
     {
       "path": "audio/8/Hey Jude.mp3",
-      "size": 10881199
+      "size": 10881199,
+      "sha": "fc99b5d9aea008140f7ef6fbaa9cd8450d6e9e1c"
     },
     {
       "path": "audio/8/兰花草.mp3",
-      "size": 6899103
+      "size": 6899103,
+      "sha": "c5430f91d693e8d67b74e5347c533c792d385365"
     },
     {
       "path": "audio/8/小螺号.mp3",
-      "size": 8793503
+      "size": 8793503,
+      "sha": "3fd7e98ed98558ae5345f0ed38fbff8abd5eefe6"
     },
     {
       "path": "audio/8/数鸭子.mp3",
-      "size": 5753895
+      "size": 5753895,
+      "sha": "0ee9744e7ffc96edc9e69f3533d833efb26b8302"
     },
     {
       "path": "audio/8/朋友越多越快乐.mp3",
-      "size": 6009903
+      "size": 6009903,
+      "sha": "1444be64ffa536bd17c615eaa76bbf8df4049eec"
     },
     {
       "path": "audio/8/歌声与微笑.mp3",
-      "size": 7953409
+      "size": 7953409,
+      "sha": "07a9ea3c99960502b0244040c943b56661a36b4c"
     },
     {
       "path": "audio/8/蜗牛与黄鹂鸟.mp3",
-      "size": 6545933
+      "size": 6545933,
+      "sha": "abaee08c8d13a442778400256cfb622ad5c41bb2"
     },
     {
       "path": "audio/8/送别.mp3",
-      "size": 8435081
+      "size": 8435081,
+      "sha": "3a59c42c896729d6f2a4f769b6cc1d89e10a97a9"
     },
     {
       "path": "audio/8/采蘑菇的小姑娘.mp3",
-      "size": 5646278
+      "size": 5646278,
+      "sha": "b24a342f6673af2a3dffa58117a9f040750174aa"
     },
     {
       "path": "audio/F/下雨.mp3",
-      "size": 12323384
+      "size": 12323384,
+      "sha": "1116927215dc2cdbb44a5c07531f8207f9c73dab"
     },
     {
       "path": "audio/F/你的早晨.mp3",
-      "size": 9948335
+      "size": 9948335,
+      "sha": "76944e2ae548bf77c9ed80e656e69e84c09646c0"
     },
     {
       "path": "audio/F/女神.mp3",
-      "size": 12037926
+      "size": 12037926,
+      "sha": "9a3f259c10fc97db9b9d55f77fd374954efde70c"
     },
     {
       "path": "audio/F/寻找.mp3",
-      "size": 5439226
+      "size": 5439226,
+      "sha": "7b9bbe298d5fd28b61030278ae1aacc9870ed9a6"
     },
     {
       "path": "audio/F/尽头.mp3",
-      "size": 11008903
+      "size": 11008903,
+      "sha": "eb70bc4234153776a310b67779a4ca00fb1a68f7"
     },
     {
       "path": "audio/F/山阴路的夏天.mp3",
-      "size": 11164620
+      "size": 11164620,
+      "sha": "ff501dfd211f7b86f6d1ec71fc0422d0c99a3680"
     },
     {
       "path": "audio/F/日.mp3",
-      "size": 6552411
+      "size": 6552411,
+      "sha": "e8035377c6b74d53d3d4e875436252aa58d099ce"
     },
     {
       "path": "audio/F/杭州.mp3",
-      "size": 9570078
+      "size": 9570078,
+      "sha": "50aad701ba9a16bdbdeca743708e8ce505deb5f2"
     },
     {
       "path": "audio/F/门.mp3",
-      "size": 15513456
+      "size": 15513456,
+      "sha": "e236c449f07f51bd4f992e90f52fca5e144a6f55"
     },
     {
-      "path": "audio/Imagine-2011/1990的春天.mp3",
-      "size": 12416072
-    },
-    {
-      "path": "audio/Imagine-2011/Z结尾.mp3",
-      "size": 2734040
-    },
-    {
-      "path": "audio/Imagine-2011/关于郑州的记忆.mp3",
-      "size": 9678419
-    },
-    {
-      "path": "audio/Imagine-2011/和你在一起.mp3",
-      "size": 9606341
-    },
-    {
-      "path": "audio/Imagine-2011/喀纳斯.mp3",
-      "size": 10968856
-    },
-    {
-      "path": "audio/Imagine-2011/天空之城.mp3",
-      "size": 8751585
-    },
-    {
-      "path": "audio/Imagine-2011/女神.mp3",
-      "size": 11878985
-    },
-    {
-      "path": "audio/Imagine-2011/她.mp3",
-      "size": 12829813
-    },
-    {
-      "path": "audio/Imagine-2011/家乡.mp3",
-      "size": 15203826
-    },
-    {
-      "path": "audio/Imagine-2011/寻找.mp3",
-      "size": 9592748
-    },
-    {
-      "path": "audio/Imagine-2011/尽头.mp3",
-      "size": 11658512
-    },
-    {
-      "path": "audio/Imagine-2011/我们不能失去信仰.mp3",
-      "size": 10421344
-    },
-    {
-      "path": "audio/Imagine-2011/斜.mp3",
-      "size": 8447537
-    },
-    {
-      "path": "audio/Imagine-2011/杭州.mp3",
-      "size": 9239575
-    },
-    {
-      "path": "audio/Imagine-2011/海的女儿.mp3",
-      "size": 12201838
-    },
-    {
-      "path": "audio/Imagine-2011/离婚.mp3",
-      "size": 14667792
-    },
-    {
-      "path": "audio/Imagine-2011/秋天的老狼.mp3",
-      "size": 10377478
-    },
-    {
-      "path": "audio/Imagine-2011/红色气球.mp3",
-      "size": 11412966
-    },
-    {
-      "path": "audio/Imagine-2011/结婚.mp3",
-      "size": 17204830
-    },
-    {
-      "path": "audio/Imagine-2011/翁庆年的六英镑.mp3",
-      "size": 10390022
-    },
-    {
-      "path": "audio/Imagine-2011/苍井空.mp3",
-      "size": 10262505
-    },
-    {
-      "path": "audio/Imagine-2011/被禁忌的游戏.mp3",
-      "size": 11083830
-    },
-    {
-      "path": "audio/Imagine-2011/门.mp3",
-      "size": 17305137
-    },
-    {
-      "path": "audio/Imagine-2011/青春.mp3",
-      "size": 7826845
-    },
-    {
-      "path": "audio/io/下雨&董卓瑶&忽然.MP3",
-      "size": 29040239
+      "path": "audio/io/下雨&董卓瑶&忽然.mp3",
+      "size": 18925099,
+      "sha": "0a498346582f4fc8a70dda7c6164950a814640ed"
     },
     {
       "path": "audio/io/墙上的向日葵.mp3",
-      "size": 19956443
+      "size": 19956443,
+      "sha": "3b3fbe01f263774fe4331de50d3c107a2c647b43"
     },
     {
       "path": "audio/io/妈妈.mp3",
-      "size": 12603464
+      "size": 12603464,
+      "sha": "2d0ed520ecb9e6874aede73f93490b036f64b5bc"
     },
     {
       "path": "audio/io/定西.mp3",
-      "size": 12729896
+      "size": 12729896,
+      "sha": "628c85be5da337ca026a028f3ae87fe1d94cca14"
     },
     {
       "path": "audio/io/山阴路的夏天.mp3",
-      "size": 13193839
+      "size": 13193839,
+      "sha": "5186a6cd8cb58b6ae110d210d88706874fc28ab2"
     },
     {
       "path": "audio/io/方式.mp3",
-      "size": 11123888
+      "size": 11123888,
+      "sha": "de724be4d03a8bfe0495ad2b025a83c1b3059ee1"
     },
     {
       "path": "audio/io/来了.mp3",
-      "size": 12107137
+      "size": 12107137,
+      "sha": "fc7b610483615b264a59f6b6a868fe3c0c6da862"
     },
     {
       "path": "audio/io/杭州.mp3",
-      "size": 10571137
+      "size": 10571137,
+      "sha": "48cdaa5f869e90ea83c4ab046a3d1e808c7f0abd"
     },
     {
       "path": "audio/io/这个世界会好吗.mp3",
-      "size": 11283768
+      "size": 11283768,
+      "sha": "53829048d13e87cdb3aad6819570730672814085"
     },
     {
       "path": "audio/io/铅笔.mp3",
-      "size": 15635758
+      "size": 15635758,
+      "sha": "ebabc4883814db6a96cf4ca637127820883e917a"
     },
     {
       "path": "audio/io/鸵鸟&天空之城&我们不能失去信仰.mp3",
-      "size": 24911389
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/他们.mp3",
-      "size": 4301593
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/倒影.mp3",
-      "size": 2974652
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/冬妮娅.mp3",
-      "size": 3740691
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/听妈妈讲过去的事情.mp3",
-      "size": 1744936
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/天空之城.mp3",
-      "size": 4088016
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/妈妈.mp3",
-      "size": 3639545
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/家乡.mp3",
-      "size": 5056427
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/广场.mp3",
-      "size": 3854794
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/恋恋风尘.mp3",
-      "size": 4452894
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/意味.mp3",
-      "size": 3115087
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/春末的南方城市.mp3",
-      "size": 3577269
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/来了.mp3",
-      "size": 6737121
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/来自我心.mp3",
-      "size": 4035353
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/狐狸.mp3",
-      "size": 4634368
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/结婚.mp3",
-      "size": 5412190
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/苍井空.mp3",
-      "size": 4044548
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/董卓瑶.mp3",
-      "size": 3316045
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/虎口脱险.mp3",
-      "size": 4984200
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/被禁忌的游戏.mp3",
-      "size": 4439599
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/达摩流浪者.mp3",
-      "size": 4281531
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/这个世界会好吗.mp3",
-      "size": 3844844
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/陀螺.mp3",
-      "size": 5773725
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/青春.mp3",
-      "size": 2471848
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/鸟语.mp3",
-      "size": 6643418
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/鸵鸟.mp3",
-      "size": 4468439
-    },
-    {
-      "path": "audio/二零零九年十月十六日事件/黑色信封.mp3",
-      "size": 5185239
+      "size": 24911389,
+      "sha": "d68643a2bb6cad63341bf1e08ebbacb792febb5b"
     },
     {
       "path": "audio/你好，郑州/关于郑州的记忆.mp3",
-      "size": 9347012
+      "size": 9347012,
+      "sha": "9b4d6b8bc543f486078ffbd16092c2ed09aa9cb5"
     },
     {
       "path": "audio/你好，郑州/墙上的向日葵.mp3",
-      "size": 12066880
+      "size": 12066880,
+      "sha": "32563c657f86b059ac3c82efe2e23e396296bdc1"
     },
     {
       "path": "audio/你好，郑州/夜.mp3",
-      "size": 11214193
+      "size": 11214193,
+      "sha": "0778d067d7384f9d43aff81bb2ac707349e9c673"
     },
     {
       "path": "audio/你好，郑州/她.mp3",
-      "size": 10120185
+      "size": 10120185,
+      "sha": "2bc5875cef9caecd2ad7005c445cfe26519456b8"
     },
     {
       "path": "audio/你好，郑州/带亲.mp3",
-      "size": 9105591
+      "size": 9105591,
+      "sha": "a80473ce456116cea3b4d211cd23de13c8aac505"
     },
     {
       "path": "audio/你好，郑州/忽然.mp3",
-      "size": 5295893
+      "size": 5295893,
+      "sha": "e6bfaeec4fb97077da3830070d6955b3dd3d9175"
     },
     {
       "path": "audio/你好，郑州/秋天的老狼.mp3",
-      "size": 9672996
+      "size": 9672996,
+      "sha": "a5bb35562c732a4e985b5532f45e1d5cb5a81282"
     },
     {
       "path": "audio/你好，郑州/路.mp3",
-      "size": 5955249
+      "size": 5955249,
+      "sha": "2db3f0a675e16774128161394ae65c8e5d834a29"
     },
     {
       "path": "audio/你好，郑州/铅笔(吉松浩版).mp3",
-      "size": 11284237
+      "size": 11284237,
+      "sha": "8c51ebf20832bb2ccbb39c8f9fc7717bcd509185"
     },
     {
       "path": "audio/你好，郑州/铅笔.mp3",
-      "size": 11206881
-    },
-    {
-      "path": "audio/动静/你的早晨.mp3",
-      "size": 13949560
-    },
-    {
-      "path": "audio/动静/卡夫卡.mp3",
-      "size": 11414636
-    },
-    {
-      "path": "audio/动静/和你在一起.mp3",
-      "size": 11551546
-    },
-    {
-      "path": "audio/动静/地方.flac",
-      "size": 40452968
-    },
-    {
-      "path": "audio/动静/墙上的向日葵.mp3",
-      "size": 16560790
-    },
-    {
-      "path": "audio/动静/好威武支持有希望＋倒影＋青春＋人民币.flac",
-      "size": 85999525
-    },
-    {
-      "path": "audio/动静/定西.mp3",
-      "size": 10958029
-    },
-    {
-      "path": "audio/动静/尽头.mp3",
-      "size": 8595501
-    },
-    {
-      "path": "audio/动静/忽然.mp3",
-      "size": 11010258
-    },
-    {
-      "path": "audio/动静/普希金.mp3",
-      "size": 11281964
-    },
-    {
-      "path": "audio/动静/这个世界会好吗.mp3",
-      "size": 12914097
-    },
-    {
-      "path": "audio/勾三搭四/1990年的春天.mp3",
-      "size": 13349751
-    },
-    {
-      "path": "audio/勾三搭四/下雨.mp3",
-      "size": 11606797
-    },
-    {
-      "path": "audio/勾三搭四/你的早晨&天空之城&暧昧.mp3",
-      "size": 22055881
-    },
-    {
-      "path": "audio/勾三搭四/和你在一起.mp3",
-      "size": 10614170
-    },
-    {
-      "path": "audio/勾三搭四/墙上的向日葵.mp3",
-      "size": 17976523
-    },
-    {
-      "path": "audio/勾三搭四/妈妈.mp3",
-      "size": 10290226
-    },
-    {
-      "path": "audio/勾三搭四/山阴路的夏天.mp3",
-      "size": 13663184
-    },
-    {
-      "path": "audio/勾三搭四/意味.mp3",
-      "size": 13317295
-    },
-    {
-      "path": "audio/勾三搭四/斜.mp3",
-      "size": 8239065
-    },
-    {
-      "path": "audio/勾三搭四/春末的南方城市.mp3",
-      "size": 11224414
-    },
-    {
-      "path": "audio/勾三搭四/来了.mp3",
-      "size": 17289997
-    },
-    {
-      "path": "audio/勾三搭四/杭州&我们不能失去信仰.mp3",
-      "size": 21853124
-    },
-    {
-      "path": "audio/勾三搭四/离婚.mp3",
-      "size": 11345573
-    },
-    {
-      "path": "audio/勾三搭四/秋天的老狼.mp3",
-      "size": 17456162
-    },
-    {
-      "path": "audio/勾三搭四/翁庆年的六英镑.mp3",
-      "size": 10943317
-    },
-    {
-      "path": "audio/勾三搭四/董卓瑶.mp3",
-      "size": 12344497
-    },
-    {
-      "path": "audio/勾三搭四/被禁忌的游戏.mp3",
-      "size": 20088292
-    },
-    {
-      "path": "audio/勾三搭四/这个世界会好吗.mp3",
-      "size": 12295447
-    },
-    {
-      "path": "audio/勾三搭四/铅笔.mp3",
-      "size": 9913018
-    },
-    {
-      "path": "audio/勾三搭四/门.mp3",
-      "size": 16063261
-    },
-    {
-      "path": "audio/勾三搭四/黑色信封.mp3",
-      "size": 13233707
-    },
-    {
-      "path": "audio/北京不插电/关于郑州的记忆.mp3",
-      "size": 11616423
-    },
-    {
-      "path": "audio/北京不插电/大象.mp3",
-      "size": 13749030
-    },
-    {
-      "path": "audio/北京不插电/定西.mp3",
-      "size": 19079054
-    },
-    {
-      "path": "audio/北京不插电/山阴路的夏天.mp3",
-      "size": 13858802
-    },
-    {
-      "path": "audio/北京不插电/春末的南方城市.mp3",
-      "size": 16300702
-    },
-    {
-      "path": "audio/北京不插电/杭州.mp3",
-      "size": 9017732
-    },
-    {
-      "path": "audio/北京不插电/热河.mp3",
-      "size": 14709347
-    },
-    {
-      "path": "audio/北京不插电/结婚.mp3",
-      "size": 16960057
-    },
-    {
-      "path": "audio/北京不插电/这个世界会好吗.mp3",
-      "size": 11068896
-    },
-    {
-      "path": "audio/北京不插电/鸵鸟.mp3",
-      "size": 10482679
-    },
-    {
-      "path": "audio/北京不插电/黑色信封.mp3",
-      "size": 11330095
-    },
-    {
-      "path": "audio/北京不插电/鼠说.mp3",
-      "size": 19524183
+      "size": 11206881,
+      "sha": "47f383a58f4d03bb07dec109e3a4834be535a834"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/一个夜晚.mp3",
-      "size": 11552813
+      "size": 11552813,
+      "sha": "15ffd06b993f56c2daf03b7959b466f129b872d2"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/一头偶像.mp3",
-      "size": 9194478
+      "size": 9194478,
+      "sha": "a68eca1ccf0fbd7dcf4c00d2d81d5f4741bff12a"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/你好明天.mp3",
-      "size": 10989593
+      "size": 10989593,
+      "sha": "b65adadf58ff026b4cceeec15bc967fdca4996d9"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/克兰河.mp3",
-      "size": 14705248
+      "size": 14705248,
+      "sha": "20f41bdfe08b6d5df0f95461574d9f020278cf0e"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/哦吼.mp3",
-      "size": 10036618
+      "size": 10036618,
+      "sha": "9cbbc22537eaa6d22218821a5de1a69d45e1e79f"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/在每一条伤心的应天大街上.mp3",
-      "size": 17477444
+      "size": 17477444,
+      "sha": "9ec649ec99a6f79e4b103df4a386d33e3bb38b88"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/彩色派对.mp3",
-      "size": 8646931
+      "size": 8646931,
+      "sha": "51cb48cbe1fa24a0233db9705871e5b29761f365"
     },
     {
       "path": "audio/在每一条伤心的应天大街上/死人.mp3",
-      "size": 11868348
-    },
-    {
-      "path": "audio/工体东路没有人/九月.mp3",
-      "size": 4602184
-    },
-    {
-      "path": "audio/工体东路没有人/他们.mp3",
-      "size": 5703568
-    },
-    {
-      "path": "audio/工体东路没有人/卡夫卡.mp3",
-      "size": 3631683
-    },
-    {
-      "path": "audio/工体东路没有人/和你在一起.mp3",
-      "size": 4060115
-    },
-    {
-      "path": "audio/工体东路没有人/想起了他.mp3",
-      "size": 12778960
-    },
-    {
-      "path": "audio/工体东路没有人/春末的南方城市.mp3",
-      "size": 3573615
-    },
-    {
-      "path": "audio/工体东路没有人/暧昧.mp3",
-      "size": 3472439
-    },
-    {
-      "path": "audio/工体东路没有人/月亮代表我的心.mp3",
-      "size": 2116193
-    },
-    {
-      "path": "audio/工体东路没有人/来了.mp3",
-      "size": 5537157
-    },
-    {
-      "path": "audio/工体东路没有人/红色气球.mp3",
-      "size": 3900017
-    },
-    {
-      "path": "audio/工体东路没有人/董卓瑶.mp3",
-      "size": 3553527
-    },
-    {
-      "path": "audio/工体东路没有人/被禁忌的游戏.mp3",
-      "size": 5653796
-    },
-    {
-      "path": "audio/工体东路没有人/这个世界会好吗.mp3",
-      "size": 4470557
-    },
-    {
-      "path": "audio/工体东路没有人/阿兰.mp3",
-      "size": 3810150
-    },
-    {
-      "path": "audio/工体东路没有人/青春.mp3",
-      "size": 2659510
-    },
-    {
-      "path": "audio/工体东路没有人/黑色信封.mp3",
-      "size": 4986291
-    },
-    {
-      "path": "audio/广场合集/地方 (2015动静版).mp3",
-      "size": 15322581
-    },
-    {
-      "path": "audio/广场合集/广场.mp3",
-      "size": 3875604
-    },
-    {
-      "path": "audio/广场合集/广场（108关键词）.mp3",
-      "size": 5094548
-    },
-    {
-      "path": "audio/广场合集/广场（2009 我们也爱南京）.mp3",
-      "size": 3876440
-    },
-    {
-      "path": "audio/广场合集/广场（2011 Imagine）.mp3",
-      "size": 12030555
-    },
-    {
-      "path": "audio/广场合集/广场（2013 108关键词）.mp3",
-      "size": 5415382
-    },
-    {
-      "path": "audio/广场合集/广场（2014 io）.mp3",
-      "size": 11685901
-    },
-    {
-      "path": "audio/广场合集/广场（B&B专辑）.mp3",
-      "size": 3045833
-    },
-    {
-      "path": "audio/广场合集/广场（原版）.mp3",
-      "size": 3338931
-    },
-    {
-      "path": "audio/广场合集/广场（工体东路没有人）.mp3",
-      "size": 4998003
-    },
-    {
-      "path": "audio/广场合集/广场（热门华语271）.mp3",
-      "size": 9097082
-    },
-    {
-      "path": "audio/广场合集/广场（疆进酒）.mp3",
-      "size": 9750050
-    },
-    {
-      "path": "audio/广场合集/时光飘散成烟 - 广场-在新疆和张玮玮.mp3",
-      "size": 9749922
-    },
-    {
-      "path": "audio/广场合集/时光飘散成烟 - 广场（原版）(2).mp3",
-      "size": 3338931
+      "size": 11868348,
+      "sha": "0a68fe1570121d847e5afdbd4873f6b86df55b38"
     },
     {
       "path": "audio/我爱南京/1990年的春天.mp3",
-      "size": 10922740
+      "size": 10922740,
+      "sha": "a2166fcc0b4bf830cc771c2d5fbd88b8f5092510"
     },
     {
       "path": "audio/我爱南京/倒影.mp3",
-      "size": 7457831
+      "size": 7457831,
+      "sha": "0993d108044e0af3a764d211a8ca4b37f6291c78"
     },
     {
       "path": "audio/我爱南京/再见.mp3",
-      "size": 3698270
+      "size": 3698270,
+      "sha": "4893c52ba6f6406e952a9f3f054490e78838fd3f"
     },
     {
       "path": "audio/我爱南京/冬妮娅.mp3",
-      "size": 9440007
+      "size": 9440007,
+      "sha": "27ca9388cdc2d7e734c36840425faeae3d8ece0e"
     },
     {
       "path": "audio/我爱南京/听妈妈讲那过去的事情.mp3",
-      "size": 6931241
+      "size": 6931241,
+      "sha": "64704a920675758f32afb08888ae280b96afd81e"
     },
     {
       "path": "audio/我爱南京/在那遥远的地方.mp3",
-      "size": 7014806
+      "size": 7014806,
+      "sha": "5d52a29657372ea5b4aa60c0b522262e08d2cf62"
     },
     {
       "path": "audio/我爱南京/天空之城.mp3",
-      "size": 9063843
+      "size": 9063843,
+      "sha": "9e93e1396ae2ef0438c2dd109b359b450a671d42"
     },
     {
       "path": "audio/我爱南京/家乡.mp3",
-      "size": 13874529
+      "size": 13874529,
+      "sha": "f7222b5a561a29880f7e7871f9a1fcd084d3343f"
     },
     {
       "path": "audio/我爱南京/思念观世音.mp3",
-      "size": 8401382
+      "size": 8401382,
+      "sha": "9c566716082efc2c7826fd56ea2103f961efb83c"
     },
     {
       "path": "audio/我爱南京/意味.mp3",
-      "size": 8211183
+      "size": 8211183,
+      "sha": "4a23c60739e57083da4ff323a3a5ac69be538c2a"
     },
     {
       "path": "audio/我爱南京/爱.mp3",
-      "size": 8175654
+      "size": 8175654,
+      "sha": "1056e5d0c060ee608225773c1fcf12c481ae2bf9"
     },
     {
       "path": "audio/我爱南京/米店.mp3",
-      "size": 8583168
+      "size": 8583168,
+      "sha": "3bd01d1815afe6ff2149837acb018c7c3a5b6fcf"
     },
     {
       "path": "audio/我爱南京/结婚.mp3",
-      "size": 14247558
+      "size": 14247558,
+      "sha": "02c8370613a680ccf69c7e0f7b1c22df29dafa0f"
     },
     {
       "path": "audio/我爱南京/美丽的梭罗河.mp3",
-      "size": 6116192
+      "size": 6116192,
+      "sha": "41ecf7551787c7c901aa08bbb56213778b48e74b"
     },
     {
       "path": "audio/我爱南京/苍井空.mp3",
-      "size": 10554911
+      "size": 10554911,
+      "sha": "7932ef8cff3541577d64dd02c38abe2443a00b10"
     },
     {
       "path": "audio/我爱南京/鸵鸟.mp3",
-      "size": 10830742
+      "size": 10830742,
+      "sha": "d4129305c4f955ef4fcacafb57351ccd18ae8008"
     },
     {
       "path": "audio/梵高先生/你离开了南京，从此没有人和我说话.mp3",
-      "size": 3198704
+      "size": 3198704,
+      "sha": "a32148dbf7b602933e1797209fad53b1beaa8c59"
     },
     {
       "path": "audio/梵高先生/广场.mp3",
-      "size": 3338931
+      "size": 3338931,
+      "sha": "2c2b114db629f37678f67cd8bc7fd98311a864f0"
     },
     {
       "path": "audio/梵高先生/想起了她.mp3",
-      "size": 11265248
+      "size": 11265248,
+      "sha": "0728e6e1da7aede03cd0dd43997a018c41282656"
     },
     {
       "path": "audio/梵高先生/斜.mp3",
-      "size": 8995704
+      "size": 8995704,
+      "sha": "552782c55306d68fbd9e7cdd15f2e9a93e7a5e87"
     },
     {
       "path": "audio/梵高先生/春末的南方城市.mp3",
-      "size": 10195279
+      "size": 10195279,
+      "sha": "9ebd089bdfef5fba24aaf2b6cacdb48028244080"
     },
     {
       "path": "audio/梵高先生/暧昧.mp3",
-      "size": 9031232
+      "size": 9031232,
+      "sha": "cca2f2bb36ef99fa3db1b85da29ec92bc6a53980"
     },
     {
       "path": "audio/梵高先生/来了.mp3",
-      "size": 12787640
+      "size": 12787640,
+      "sha": "89c95d4c5f9b06399f7ea76b9c784ef902a37c74"
     },
     {
       "path": "audio/梵高先生/梵高先生.mp3",
-      "size": 10315436
+      "size": 10315436,
+      "sha": "3cb84e49fb78cb8bae201a31712679ce0e91bdc3"
     },
     {
       "path": "audio/梵高先生/董卓瑶.mp3",
-      "size": 8237132
-    },
-    {
-      "path": "audio/电声与管弦乐/和你在一起.mp3",
-      "size": 11406508
-    },
-    {
-      "path": "audio/电声与管弦乐/回答.mp3",
-      "size": 15137698
-    },
-    {
-      "path": "audio/电声与管弦乐/墙上的向日葵.mp3",
-      "size": 19623588
-    },
-    {
-      "path": "audio/电声与管弦乐/大象.mp3",
-      "size": 16383217
-    },
-    {
-      "path": "audio/电声与管弦乐/定西.mp3",
-      "size": 15571466
-    },
-    {
-      "path": "audio/电声与管弦乐/尽头.mp3",
-      "size": 10344751
-    },
-    {
-      "path": "audio/电声与管弦乐/序曲.mp3",
-      "size": 12612315
-    },
-    {
-      "path": "audio/电声与管弦乐/春末的南方城市.mp3",
-      "size": 10275798
-    },
-    {
-      "path": "audio/电声与管弦乐/杭州.mp3",
-      "size": 14277882
-    },
-    {
-      "path": "audio/电声与管弦乐/铅笔.mp3",
-      "size": 13519286
-    },
-    {
-      "path": "audio/电声与管弦乐/门.mp3",
-      "size": 17125227
-    },
-    {
-      "path": "audio/电声与管弦乐/黑色信封.mp3",
-      "size": 14380286
-    },
-    {
-      "path": "audio/电声与管弦乐II/一头偶像 (相信未来版).mp3",
-      "size": 12588731
-    },
-    {
-      "path": "audio/电声与管弦乐II/你好明天 (相信未来版).mp3",
-      "size": 13301351
-    },
-    {
-      "path": "audio/电声与管弦乐II/哦吼 (相信未来版).mp3",
-      "size": 14004544
-    },
-    {
-      "path": "audio/电声与管弦乐II/天空之城 (相信未来版).mp3",
-      "size": 12662919
-    },
-    {
-      "path": "audio/电声与管弦乐II/家乡 (相信未来版).mp3",
-      "size": 18046229
-    },
-    {
-      "path": "audio/电声与管弦乐II/寻找 (相信未来版).mp3",
-      "size": 11397523
-    },
-    {
-      "path": "audio/电声与管弦乐II/山阴路的夏天 (相信未来版).mp3",
-      "size": 12575175
-    },
-    {
-      "path": "audio/电声与管弦乐II/相信未来序曲 (乐曲).mp3",
-      "size": 13271047
-    },
-    {
-      "path": "audio/电声与管弦乐II/这个世界会好吗 (相信未来版).mp3",
-      "size": 15988859
-    },
-    {
-      "path": "audio/看见/下雨.mp3",
-      "size": 5211854
-    },
-    {
-      "path": "audio/看见/你离开了南京，从此没有人和我说话.mp3",
-      "size": 5638388
-    },
-    {
-      "path": "audio/看见/春末的南方城市.mp3",
-      "size": 10558750
-    },
-    {
-      "path": "audio/看见/梵高先生.mp3",
-      "size": 7317503
-    },
-    {
-      "path": "audio/看见/热河.mp3",
-      "size": 20032810
-    },
-    {
-      "path": "audio/看见/看见.mp3",
-      "size": 6251651
-    },
-    {
-      "path": "audio/看见/离婚.mp3",
-      "size": 12219063
-    },
-    {
-      "path": "audio/看见/苍井空.mp3",
-      "size": 12954673
-    },
-    {
-      "path": "audio/看见/董卓瑶.mp3",
-      "size": 11807375
-    },
-    {
-      "path": "audio/看见/黑色信封.mp3",
-      "size": 12341320
+      "size": 8237132,
+      "sha": "a98edce97e7e2b076c9e6c68ea03e89fb021360b"
     },
     {
       "path": "audio/被禁忌的游戏/卡夫卡.mp3",
-      "size": 7292132
+      "size": 7292132,
+      "sha": "4013ac41df27b984429b62149b324214bee4d174"
     },
     {
       "path": "audio/被禁忌的游戏/欢愉.mp3",
-      "size": 8514661
+      "size": 8514661,
+      "sha": "a2b8484a75d29ab9edfb9f066b47de5f593362e5"
     },
     {
       "path": "audio/被禁忌的游戏/离婚.mp3",
-      "size": 12049551
+      "size": 12049551,
+      "sha": "5d5046048f243bdd30324dcb2faea31a97d68f1d"
     },
     {
       "path": "audio/被禁忌的游戏/红色气球.mp3",
-      "size": 7151073
+      "size": 7151073,
+      "sha": "6a11b19333cbea7e1f25887bf6c457c77b89db3f"
     },
     {
       "path": "audio/被禁忌的游戏/罗庄的冬天.mp3",
-      "size": 16652332
+      "size": 16652332,
+      "sha": "bed0b8928d175da59e490fc9b1429694d2ada7df"
     },
     {
       "path": "audio/被禁忌的游戏/被禁忌的游戏.mp3",
-      "size": 15329514
+      "size": 15329514,
+      "sha": "8bb813ddedbb2737035b3320b86bc92e0e730252"
     },
     {
       "path": "audio/被禁忌的游戏/阿兰.mp3",
-      "size": 6860588
+      "size": 6860588,
+      "sha": "2ea924b08740d5e1ba454379a80ce7f8069aa142"
     },
     {
-      "path": "audio/被禁忌的游戏/青春.wav",
-      "size": 33967764
+      "path": "audio/被禁忌的游戏/青春.mp3",
+      "size": 7705167,
+      "sha": "e1287875ee0021ca5429c11711b586b606cd36e0"
     },
     {
       "path": "audio/被禁忌的游戏/黑色信封.mp3",
-      "size": 11706828
-    },
-    {
-      "path": "audio/这个世界会好吗/交河.mp3",
-      "size": 8983021
-    },
-    {
-      "path": "audio/这个世界会好吗/人民不需要自由.mp3",
-      "size": 11222325
-    },
-    {
-      "path": "audio/这个世界会好吗/他们.mp3",
-      "size": 11972562
-    },
-    {
-      "path": "audio/这个世界会好吗/和你在一起.mp3",
-      "size": 10323651
-    },
-    {
-      "path": "audio/这个世界会好吗/喀纳斯.mp3",
-      "size": 13045586
-    },
-    {
-      "path": "audio/这个世界会好吗/妈妈.mp3",
-      "size": 10010156
-    },
-    {
-      "path": "audio/这个世界会好吗/我们不能失去信仰—献给刘艺.mp3",
-      "size": 10322646
-    },
-    {
-      "path": "audio/这个世界会好吗/李志- 这个世界会好吗.mp3",
-      "size": 9811899
-    },
-    {
-      "path": "audio/这个世界会好吗/海的女儿.mp3",
-      "size": 8683140
-    },
-    {
-      "path": "audio/这个世界会好吗/翁庆年的六英镑.mp3",
-      "size": 10505468
-    },
-    {
-      "path": "audio/零碎/一个夜晚---李志.mp3",
-      "size": 4526080
-    },
-    {
-      "path": "audio/零碎/两只HipHop山羊织毛衣.mp3",
-      "size": 2061357
-    },
-    {
-      "path": "audio/零碎/南京人民不需要自由.MP3",
-      "size": 6995943
-    },
-    {
-      "path": "audio/零碎/妈妈.mp3",
-      "size": 4121363
-    },
-    {
-      "path": "audio/零碎/帐号被人注销了 - 《一起摇摆》 李志团队.mp3",
-      "size": 10050481
-    },
-    {
-      "path": "audio/零碎/撒娇 - 在劫难逃.mp3",
-      "size": 7716677
-    },
-    {
-      "path": "audio/零碎/撒娇 - 虎口脱险.mp3",
-      "size": 7467175
-    },
-    {
-      "path": "audio/零碎/时光.MP3",
-      "size": 8987361
-    },
-    {
-      "path": "audio/零碎/李志,卡列宁 - 突如其来的夏天.mp3",
-      "size": 4607960
-    },
-    {
-      "path": "audio/零碎/李志,梁颖 - 虎口脱险.mp3",
-      "size": 5299230
-    },
-    {
-      "path": "audio/零碎/李志-红色气球 (2009现场版).mp3",
-      "size": 9258305
-    },
-    {
-      "path": "audio/零碎/痛并快乐着.mp3",
-      "size": 2941323
-    },
-    {
-      "path": "audio/零碎/老钟 我和你在一起.mp3",
-      "size": 1668049
-    },
-    {
-      "path": "audio/零碎/肖晨,陈小二 - 酒吧叙事体.mp3",
-      "size": 7811876
-    },
-    {
-      "path": "audio/零碎/英俊的海 - 《公路之光》丨李志.mp3",
-      "size": 8778182
-    },
-    {
-      "path": "audio/零碎/谁他妈没织过毛衣.mp3",
-      "size": 2368127
-    },
-    {
-      "path": "audio/零碎/这个世界会好吗2015.mp3",
-      "size": 11339241
-    },
-    {
-      "path": "audio/零碎/邵夷贝,黄昏.mp3",
-      "size": 9782620
-    },
-    {
-      "path": "audio/零碎/阿兰 2012.12.31.mp3",
-      "size": 4556927
-    },
-    {
-      "path": "audio/零碎/鹿港小镇 (Live).mp3",
-      "size": 1845455
+      "size": 11706828,
+      "sha": "605726f982806c4832d3f852d613cc81d9bad740"
     }
-  ]
+  ],
+  "source": "sl46233391/1701-catalog",
+  "ref": "main",
+  "updated": "2026-11-21"
 }
