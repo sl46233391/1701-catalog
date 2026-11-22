@@ -489,9 +489,154 @@
       "path": "audio/这个世界会好吗/翁庆年的六英镑.mp3",
       "size": 10904984,
       "sha": "a044defe90b1fdd8e420ebb619682511a7f6fec9"
+    },
+    {
+      "path": "audio/2026叁缺壹/天空之城.m4a",
+      "size": 2696198,
+      "sha": "9fa75cc06da922cab3dd41ee8fa6967c2f6fe97b"
+    },
+    {
+      "path": "audio/2026叁缺壹/关于郑州的记忆&春末的南方城市.m4a",
+      "size": 5099023,
+      "sha": "d365723a242f9cccb8e2cccefbbc8499a05c14b5"
+    },
+    {
+      "path": "audio/2026叁缺壹/下雨.m4a",
+      "size": 2870237,
+      "sha": "2ca0330cc71e25d6795d06fe0d8dcd192911969c"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅰ.m4a",
+      "size": 2447997,
+      "sha": "f063cce1c2a950040616307c14d054eb7bac4193"
+    },
+    {
+      "path": "audio/2026叁缺壹/梵高先生.m4a",
+      "size": 3166040,
+      "sha": "ed58b52b5163b5955451eb63b8c5e109736cdedd"
+    },
+    {
+      "path": "audio/2026叁缺壹/来了.m4a",
+      "size": 3746033,
+      "sha": "ddc0eaa9be8774d0cf1088ffaf8efb5eaba446bc"
+    },
+    {
+      "path": "audio/2026叁缺壹/带亲.m4a",
+      "size": 1970743,
+      "sha": "8efe80a527532c961f74484deeeb3b5ab808b8a0"
+    },
+    {
+      "path": "audio/2026叁缺壹/南京越来越远.m4a",
+      "size": 2797493,
+      "sha": "12f27d4505b45cb57b87c9310b123c2d988c891b"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅱ.m4a",
+      "size": 1035730,
+      "sha": "cb5af3177ebeb7ad86ae5515edf4dd0ef8b72769"
+    },
+    {
+      "path": "audio/2026叁缺壹/墙上的向日葵+这个世界会好吗.m4a",
+      "size": 6527332,
+      "sha": "07517be5b558c4bb0ff5edfb88b5bacc914437a3"
+    },
+    {
+      "path": "audio/2026叁缺壹/被禁忌的游戏.m4a",
+      "size": 2929632,
+      "sha": "5d6b2fdbce78fa5e413ab320eed37f25fb3be040"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅲ.m4a",
+      "size": 1204206,
+      "sha": "d68df634945ff44dc7688c1ad3e7cad0109d3dfb"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅲ+红色气球.m4a",
+      "size": 2680380,
+      "sha": "e3d1cb76cfd94e2c2ee7b6263904707c9f80d49d"
+    },
+    {
+      "path": "audio/2026叁缺壹/黑色信封.m4a",
+      "size": 2616604,
+      "sha": "90b2d46e3d9316f84cd3bd0ecc4da92f06f68051"
+    },
+    {
+      "path": "audio/2026叁缺壹/定西.m4a",
+      "size": 3686263,
+      "sha": "5d2320f6916b549bf725b1185ce404ace38a6523"
+    },
+    {
+      "path": "audio/2026叁缺壹/铅笔.m4a",
+      "size": 2491387,
+      "sha": "94e1e38e96532f12f0cc491734e776dcc266e919"
+    },
+    {
+      "path": "audio/2026叁缺壹/寻找.m4a",
+      "size": 2100567,
+      "sha": "b1c4087b4ff3cc0ea001a539b565753ed48b2dd4"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅳ.m4a",
+      "size": 1384723,
+      "sha": "4837518851212ac3e476d7474ae3ce74746f4741"
+    },
+    {
+      "path": "audio/2026叁缺壹/和你在一起.m4a",
+      "size": 2524387,
+      "sha": "fc2ba9d85e00366820aa3f97bddb4c63d111ed40"
+    },
+    {
+      "path": "audio/2026叁缺壹/翁庆年的六英镑.m4a",
+      "size": 2420632,
+      "sha": "e36c526808530f7500dc127b023bc1c2da16e9b3"
+    },
+    {
+      "path": "audio/2026叁缺壹/卡夫卡.m4a",
+      "size": 2248131,
+      "sha": "46d92e59b34fddf0e43b1f0907047057df803a2d"
+    },
+    {
+      "path": "audio/2026叁缺壹/忽然.m4a",
+      "size": 1897282,
+      "sha": "4d7e6d425e331e896b4ad9eb5d948fce69fff89a"
+    },
+    {
+      "path": "audio/2026叁缺壹/逼言逼语Ⅴ.m4a",
+      "size": 1806978,
+      "sha": "e66cda294e02d588d313d29b81fda218b98361e6"
+    },
+    {
+      "path": "audio/2026叁缺壹/杭州.m4a",
+      "size": 2308890,
+      "sha": "9f924a72222311cd9ed637eae0c892ae7c513489"
+    },
+    {
+      "path": "audio/2026叁缺壹/倒影.m4a",
+      "size": 2147166,
+      "sha": "1847af7d5ccbeafcd710d2c58675e517d60b9989"
+    },
+    {
+      "path": "audio/2026叁缺壹/她.m4a",
+      "size": 2040171,
+      "sha": "af573877aa1f504d276e7c6097b04b2b315e46b1"
+    },
+    {
+      "path": "audio/2026叁缺壹/热河.m4a",
+      "size": 4529890,
+      "sha": "f2c9921e04350213519bdb09fe09f461f1830fce"
+    },
+    {
+      "path": "audio/2026叁缺壹/山阴路的夏天.m4a",
+      "size": 3641694,
+      "sha": "3dcfaa6a7dbd8b50902a31ee6119087bedec8e34"
+    },
+    {
+      "path": "audio/2026叁缺壹/结尾逼言逼语Ⅵ.m4a",
+      "size": 4461692,
+      "sha": "73782126c90d00d8de87c297d35af366331df1be"
     }
   ],
   "source": "sl46233391/1701-catalog",
   "ref": "main",
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }
